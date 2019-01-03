@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525b3ba3-bd57-439f-9cd6-0153ea35f772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problem4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup4/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,17 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem4/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Warmup5/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,7 +41,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem3/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Warmup4/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Warmup3/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1037">
               <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
@@ -49,7 +65,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem1/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Warmup1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="44" />
@@ -58,10 +74,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem2/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Warmup2/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="544">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,8 +103,10 @@
         <option value="$PROJECT_DIR$/src/Problem1/Solution.java" />
         <option value="$PROJECT_DIR$/src/Problem2/Solution.java" />
         <option value="$PROJECT_DIR$/src/Problem3/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Problem4/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Warmup4/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Warmup5/Solution.java" />
       </list>
     </option>
   </component>
@@ -125,7 +143,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546527645036" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546530689623" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,39 +157,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem2.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Warmup5.Solution" />
       <module name="Problem-Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem3.Solution" />
-      <module name="Problem-Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem4.Solution" />
-      <module name="Problem-Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Problem4.*" />
+          <option name="PATTERN" value="Warmup5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +172,50 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem1.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Warmup1.Solution" />
       <module name="Problem-Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem1.*" />
+          <option name="PATTERN" value="Warmup1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup2.Solution" />
+      <module name="Problem-Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup3.Solution" />
+      <module name="Problem-Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup4.Solution" />
+      <module name="Problem-Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,6 +225,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
@@ -216,6 +248,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -246,24 +279,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem2/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Warmup2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Warmup1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem3/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Warmup3/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
@@ -273,17 +306,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/Warmup4/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Problem4/Solution.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Warmup5/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

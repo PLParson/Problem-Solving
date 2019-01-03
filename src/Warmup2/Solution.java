@@ -1,7 +1,5 @@
-package Problem2;
+package Warmup2;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 

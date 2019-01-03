@@ -1,4 +1,4 @@
-package Problem3;
+package Warmup3;
 
 import java.io.*;
 import java.util.ArrayList;
