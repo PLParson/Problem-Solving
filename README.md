@@ -7,3 +7,4 @@ Warmup 2: Simple Array Sum
 Warmup 3: Compare the Triplets
 Warmup 4: A Very Big Sum
 Warmup 5: Plus Minus
+Warmup 6: Staircase
