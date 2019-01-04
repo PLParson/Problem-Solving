@@ -9,3 +9,4 @@ Warmup 4: A Very Big Sum
 Warmup 5: Plus Minus
 Warmup 6: Staircase
 Warmup 7: Diagonal Difference
+Warmup 8: Mini-Max Sum
