@@ -21,3 +21,4 @@ Implementation
     4: Between Two Sets
     5: Breaking the Records
     6: Birthday Chocolate
+    7: Divisible Sum Pairs
