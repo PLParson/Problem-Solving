@@ -20,3 +20,4 @@ Implementation
     3: Kangaroo
     4: Between Two Sets
     5: Breaking the Records
+    6: Birthday Chocolate
