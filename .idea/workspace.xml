@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525b3ba3-bd57-439f-9cd6-0153ea35f772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Implementation14/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementation15/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -18,17 +18,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="527">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Implementation15/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Implementation14/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="357">
+              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,18 +109,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Warmup3/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Warmup1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -169,8 +169,9 @@
         <option value="$PROJECT_DIR$/src/Implementation11/Solution.java" />
         <option value="$PROJECT_DIR$/src/Implementation12/Solution.java" />
         <option value="$PROJECT_DIR$/src/Implementation13/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Implementation14/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Implementation15/Solution.java" />
       </list>
     </option>
   </component>
@@ -207,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547545769204" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547547688548" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-30-Day-Challenge" />
   </component>
   <component name="RunDashboard">
@@ -222,7 +223,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation15.Solution" />
+      <module name="Problem-Solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Implementation10.Solution" />
       <module name="Problem-Solving" />
@@ -276,19 +290,6 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Implementation9.Solution" />
-      <module name="Problem-Solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Implementation9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup4.Solution" />
       <module name="Problem-Solving" />
       <extension name="coverage">
@@ -303,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -588,17 +589,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/Implementation14/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="357">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Implementation14/Solution.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="527">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Implementation15/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
